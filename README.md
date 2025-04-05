@@ -175,6 +175,4 @@ Inspired by real-world app development challenges and the power of AI agents to 
 
 <div align="center">
 <p>Made with ❤️ by AI enthusiasts</p>
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-app-review-agents?style=social)](https://github.com/yourusername)
 </div>
