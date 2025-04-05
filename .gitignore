@@ -1,0 +1,60 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Local configuration
+instance/
+.webassets-cache
+
+# Marimo specific
+.marimo/
+
+# Large data files
+*.csv
+*.json
+*.xlsx
+*.xls
+*.parquet
+
+# Temporary files
+tmp/
+temp/
+
+# Model files
+*.pkl
+*.h5
+*.model
+*.joblib
+
+# CSV files
+all_combined.csv
