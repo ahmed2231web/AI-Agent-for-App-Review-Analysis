@@ -115,7 +115,7 @@ echo "GEMINI_API_KEY=your_gemini_api_key" > .env
 
 ```bash
 # Launch the interactive Marimo notebook with agents
-python agent2.py
+marimo edit agent2.py
 ```
 
 ## 📝 Usage Examples
