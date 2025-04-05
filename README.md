@@ -111,15 +111,6 @@ pip install -r requirements.txt
 echo "GEMINI_API_KEY=your_gemini_api_key" > .env
 ```
 
-### Data Setup
-
-```bash
-# 1. Place your app reviews CSV in the project directory
-
-# 2. Run the CSV to DB conversion script
-python csv_to_db.py
-```
-
 ### Running the Agents
 
 ```bash
